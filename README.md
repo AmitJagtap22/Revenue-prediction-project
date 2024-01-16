@@ -3,8 +3,8 @@
 Problem Statement:
 Create a machine learning model to predict revenue of the restaurant based on the independent features present in the dataset. Use "Restaurant revenue" dataset which contains 100 observations of restaurants with 8 
 attributes:
-    ID - Restaurant ID
-    Name - Name of the Restaurant
+1. ID - Restaurant ID
+2. Name - Name of the Restaurant
     Franchise - Restaurant has franchise or not
     Category - specific type of category provided by restaurant
     City - city in which the restaurant is located
